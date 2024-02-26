@@ -1,4 +1,9 @@
-﻿Module ShuffleTheDeck
+﻿'Rahiel Rodriguez
+'RCET 0265
+'Spring 2024
+'Shuffle The Deck
+'https://github.com/rahielrodriguez/ShuffleTheDeck.git
+Module ShuffleTheDeck
 
     Sub Main()
         Dim deckCage(3, 12) As Boolean
